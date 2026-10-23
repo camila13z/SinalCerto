@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "SinalCerto",
+    "slug": "sinalcerto",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "sinalcerto",
+    "newArchEnabled": true,
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "O SinalCerto usa sua localização aproximada apenas para encontrar o ponto de medição mais próximo. Se você negar, o app usa São Paulo como referência."
+        }
+      ]
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
