@@ -15,7 +15,7 @@ Para testar sem instalar nada, abra o projeto no Expo Snack e rode pelo app
 **Expo Go** (escaneando o QR Code que o Snack mostra). No celular, o app usa os
 dados reais da Internet Quality API.
 
-> Link do Snack: _COLE-AQUI-O-LINK-DO-SEU-SNACK_
+> Link do Snack: https://snack.expo.dev/@camila13z/sinal-certo
 
 Observação: a versão do Snack reúne o código em um único arquivo apenas para
 facilitar a execução online. O código-fonte organizado em pastas é o deste
